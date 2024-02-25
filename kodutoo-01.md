@@ -1,0 +1,1 @@
+# Tehtud! Üks päev hilja, sest ma ei saanud oma arvutis asja tööle. Mul ei tulnud kohe pähe, et Windowsil on natuke teistsugused commandid kui Macis.
