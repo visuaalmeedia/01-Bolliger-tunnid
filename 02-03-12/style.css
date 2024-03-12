@@ -1,0 +1,22 @@
+.card {
+    background-color: pink;
+    border-style: solid;
+    border-color: black;
+
+}   
+
+.card-row {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    justify-content: space-around;
+}
+
+.banner {
+    display:flex;
+    align-items: center;
+    border-style: solid;
+    border-color: black;
+    justify-content: space-around;
+}
